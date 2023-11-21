@@ -180,7 +180,22 @@ The code orchestrates a cohesive integration of hardware elements: LEDs serve as
 Port F are strategically harnessed to initiate, halt, and reset the stopwatch. This implementation provides a robust foundation for building interactive timekeeping applications on the microcontroller
 platform.
 
- 
+## Output :
+### Output for 10.57 Mobile Stopwatch<br>
+
+![Output for 10](https://github.com/HarshitTak/Lab-mini-project/blob/main/stop%20watch/10.57.jpg)
+
+### Output for 10.45 Stopwatch<br>
+
+![Output for 10](https://github.com/HarshitTak/Lab-mini-project/blob/main/stop%20watch/10.45.png)
+
+### Output for 01.17.41 Mobile Stopwatch<br>
+
+![Output for 1 min](https://github.com/HarshitTak/Lab-mini-project/blob/main/stop%20watch/1.17.41.jpg)
+
+ ### Output for 01.17.28 Stopwatch<br>
+
+![Output for 10](https://github.com/HarshitTak/Test/blob/main/Image/50%20duty%20cycle.jpg)
 
 
 
