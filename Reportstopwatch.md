@@ -195,7 +195,7 @@ platform.
 
  ### Output for 01.17.28 Stopwatch<br>
 
-![Output for 10](https://github.com/HarshitTak/Test/blob/main/Image/50%20duty%20cycle.jpg)
+![Output for 10](https://github.com/HarshitTak/Lab-mini-project/blob/main/stop%20watch/1.17.28.png)
 
 
 
